@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010201843903",
+    "project_id": "summit-e049b",
+    "storage_bucket": "summit-e049b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010201843903:android:47c977e63d3975edaace0a",
+        "android_client_info": {
+          "package_name": "com.example.summit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010201843903-ibbi6jkpmlm0apvmu8lqcuvhcesgq224.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.summit",
+            "certificate_hash": "6427234a7871f2534bf36d9022d1c8d0af746f61"
+          }
+        },
+        {
+          "client_id": "1010201843903-ho65q65nn9r75qogtbhq8eseijanjmka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDus9_2aOlv59wyWpwu73k-bdQQaP-LZck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010201843903-ho65q65nn9r75qogtbhq8eseijanjmka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
